@@ -36,8 +36,8 @@
 ![328164157-1875c3fa-de65-4d2f-bd97-118508bd88f8](https://github.com/23004027/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138956447/74b7b524-73f8-4835-8629-afa72d497b22)
 
 
-### Name:jagadeesh P
-### Register Number:212223230083
+### Name:FRANKLIN RAJ G
+### Register Number:212223230058
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
