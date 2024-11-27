@@ -1,7 +1,6 @@
-# Ex.04- REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.4   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 7.11.2024
-
+## date:7/11/24
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
@@ -31,16 +30,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/user-attachments/assets/da7a9e11-72cb-441e-93df-94214153c3c0)
+![328164157-1875c3fa-de65-4d2f-bd97-118508bd88f8](https://github.com/23004027/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138956447/74b7b524-73f8-4835-8629-afa72d497b22)
 
 ### Output:
-![image](https://github.com/user-attachments/assets/d85670e0-0eb7-4ef5-81d2-a63838abdfdc)
-
-![image](https://github.com/user-attachments/assets/82341104-0e1a-43dc-b7ed-ef8031e38aba)
+![328164157-1875c3fa-de65-4d2f-bd97-118508bd88f8](https://github.com/23004027/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/138956447/74b7b524-73f8-4835-8629-afa72d497b22)
 
 
-### Name:FRANKLIN RAJ G
-### Register Number:212223230058
+### Name:jagadeesh P
+### Register Number:212223230083
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
